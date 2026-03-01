@@ -19,6 +19,10 @@ Built for **fleet managers, dispatchers, and logistics operators** who need to k
 
 The app is deliberately monochrome with a luminescent aesthetic — high contrast on OLED-black backgrounds makes it readable in control rooms, vehicles, and low-light environments where fleet operations often happen.
 
+<img width="3440" height="1440" alt="Snímek obrazovky 2026-03-01 v 19 41 07" src="https://github.com/user-attachments/assets/ac74c328-9e3b-4314-b520-055412158774" />
+<img width="3440" height="1440" alt="Snímek obrazovky 2026-03-01 v 19 40 57" src="https://github.com/user-attachments/assets/ece22662-112e-4970-8fd3-431980fb957e" />
+<img width="3440" height="1440" alt="Snímek obrazovky 2026-03-01 v 19 40 50" src="https://github.com/user-attachments/assets/6b6b0157-7864-438e-8922-e8df4c573379" />
+
 ## Features
 
 ### Dashboard
